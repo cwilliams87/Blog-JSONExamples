@@ -1,0 +1,478 @@
+{
+    "cinema_name": "ABC Cinemas",
+    "address": {
+        "street": "123 Main St.",
+        "city": "Anytown",
+        "state": "TX",
+        "zip": "12345"
+    },
+    "movies": [
+        {
+            "title": "Avengers: Endgame",
+            "release_year": 2019,
+            "genre": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "rating": 8.4,
+            "showtimes": [
+                {
+                    "date": "2022-01-01",
+                    "times": [
+                        "10:00 AM",
+                        "1:00 PM",
+                        "4:00 PM",
+                        "7:00 PM"
+                    ]
+                },
+                {
+                    "date": "2022-01-02",
+                    "times": [
+                        "10:00 AM",
+                        "1:00 PM",
+                        "4:00 PM",
+                        "7:00 PM"
+                    ]
+                },
+                {
+                    "date": "2022-01-03",
+                    "times": [
+                        "10:00 AM",
+                        "1:00 PM",
+                        "4:00 PM",
+                        "7:00 PM"
+                    ]
+                },
+                {
+                    "date": "2022-01-04",
+                    "times": [
+                        "10:00 AM",
+                        "1:00 PM",
+                        "4:00 PM",
+                        "7:00 PM"
+                    ]
+                },
+                {
+                    "date": "2022-01-05",
+                    "times": [
+                        "10:00 AM",
+                        "1:00 PM",
+                        "4:00 PM",
+                        "7:00 PM"
+                    ]
+                },
+                {
+                    "date": "2022-01-06",
+                    "times": [
+                        "10:00 AM",
+                        "1:00 PM",
+                        "4:00 PM",
+                        "7:00 PM"
+                    ]
+                },
+                {
+                    "date": "2022-01-07",
+                    "times": [
+                        "10:00 AM",
+                        "1:00 PM",
+                        "4:00 PM",
+                        "7:00 PM"
+                    ]
+                },
+                {
+                    "date": "2022-01-08",
+                    "times": [
+                        "10:00 AM",
+                        "1:00 PM",
+                        "4:00 PM",
+                        "7:00 PM"
+                    ]
+                }
+            ],
+            "reviews": [
+                {
+                    "username": "SuperheroFan23",
+                    "platform": "Twitter",
+                    "content": "Just watched Avengers: Endgame for the fifth time and it still gets me emotional. Such an amazing movie!",
+                    "likes": 100,
+                    "replies": [
+                        {
+                            "username": "MarvelFanatic",
+                            "platform": "Twitter",
+                            "content": "@SuperheroFan23 I know, right? That scene with Tony and Peter is always a tearjerker.",
+                            "likes": 50
+                        },
+                        {
+                            "username": "StarkIndustries",
+                            "platform": "Facebook",
+                            "content": "We're glad you enjoyed it! Thanks for being a fan.",
+                            "likes": 20,
+                            "replies": []
+                        }
+                    ]
+                },
+                {
+                    "username": "ComicBookLover",
+                    "platform": "Instagram",
+                    "content": "The Avengers: Endgame movie was a masterpiece! The emotional rollercoaster was so worth it.",
+                    "likes": 150,
+                    "replies": [
+                        {
+                            "username": "SuperheroFan23",
+                            "platform": "Twitter",
+                            "content": "@ComicBookLover Totally agree! The scene where all the heroes come together was epic.",
+                            "likes": 30
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Spider-Man: No Way Home",
+            "release_year": 2021,
+            "genre": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "rating": 8.0,
+            "showtimes": [
+                {
+                    "date": "2022-01-01",
+                    "times": [
+                        "11:00 AM",
+                        "2:00 PM",
+                        "5:00 PM",
+                        "8:00 PM"
+                    ]
+                },
+                {
+                    "date": "2022-01-02",
+                    "times": [
+                        "11:00 AM",
+                        "2:00 PM",
+                        "5:00 PM",
+                        "8:00 PM"
+                    ]
+                },
+                {
+                    "date": "2022-01-03",
+                    "times": [
+                        "11:00 AM",
+                        "2:00 PM",
+                        "5:00 PM",
+                        "8:00 PM"
+                    ]
+                },
+                {
+                    "date": "2022-01-04",
+                    "times": [
+                        "11:00 AM",
+                        "2:00 PM",
+                        "5:00 PM",
+                        "8:00 PM"
+                    ]
+                },
+                {
+                    "date": "2022-01-05",
+                    "times": [
+                        "11:00 AM",
+                        "2:00 PM",
+                        "5:00 PM",
+                        "8:00 PM"
+                    ]
+                },
+                {
+                    "date": "2022-01-06",
+                    "times": [
+                        "11:00 AM",
+                        "2:00 PM",
+                        "5:00 PM",
+                        "8:00 PM"
+                    ]
+                },
+                {
+                    "date": "2022-01-07",
+                    "times": [
+                        "11:00 AM",
+                        "2:00 PM",
+                        "5:00 PM",
+                        "8:00 PM"
+                    ]
+                },
+                {
+                    "date": "2022-01-08",
+                    "times": [
+                        "11:00 AM",
+                        "2:00 PM",
+                        "5:00 PM",
+                        "8:00 PM"
+                    ]
+                }
+            ],
+            "reviews": [
+                {
+                    "username": "SpideyFan99",
+                    "platform": "Facebook",
+                    "content": "Spider-Man: No Way Home was amazing! Can't wait for the next one!",
+                    "likes": 200,
+                    "replies": [
+                        {
+                            "username": "MarvelFanatic",
+                            "platform": "Twitter",
+                            "content": "@SpideyFan99 I agree! It was definitely worth the wait.",
+                            "likes": 50
+                        },
+                        {
+                            "username": "PeterParkerFan",
+                            "platform": "Instagram",
+                            "content": "Tom Holland was born to play Spider-Man! He was so good in this movie.",
+                            "likes": 75,
+                            "replies": []
+                        }
+                    ]
+                },
+                {
+                    "username": "FriendlyNeighborhoodSpiderMan",
+                    "platform": "Twitter",
+                    "content": "Just saw Spider-Man: No Way Home and I have no words. It was incredible!",
+                    "likes": 100,
+                    "replies": [
+                        {
+                            "username": "SpideyFan99",
+                            "platform": "Facebook",
+                            "content": "@FriendlyNeighborhoodSpiderMan Yes! It's definitely one of my favorite Spider-Man movies now.",
+                            "likes": 25
+                        },
+                        {
+                            "username": "MarvelFanatic",
+                            "platform": "Twitter",
+                            "content": "@FriendlyNeighborhoodSpiderMan Agreed! The scene with all three Spider-Men was so cool.",
+                            "likes": 50
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "The Matrix Resurrections",
+            "release_year": 2021,
+            "genre": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "rating": 7.6,
+            "showtimes": [
+                {
+                    "date": "2022-01-01",
+                    "times": [
+                        "1:00 PM",
+                        "4:00 PM",
+                        "7:00 PM"
+                    ]
+                },
+                {
+                    "date": "2022-01-02",
+                    "times": [
+                        "1:00 PM",
+                        "4:00 PM",
+                        "7:00 PM"
+                    ]
+                },
+                {
+                    "date": "2022-01-03",
+                    "times": [
+                        "1:00 PM",
+                        "4:00 PM",
+                        "7:00 PM"
+                    ]
+                },
+                {
+                    "date": "2022-01-04",
+                    "times": [
+                        "1:00 PM",
+                        "4:00 PM",
+                        "7:00 PM"
+                    ]
+                },
+                {
+                    "date": "2022-01-05",
+                    "times": [
+                        "1:00 PM",
+                        "4:00 PM",
+                        "7:00 PM"
+                    ]
+                },
+                {
+                    "date": "2022-01-06",
+                    "times": [
+                        "1:00 PM",
+                        "4:00 PM",
+                        "7:00 PM"
+                    ]
+                },
+                {
+                    "date": "2022-01-07",
+                    "times": [
+                        "1:00 PM",
+                        "4:00 PM",
+                        "7:00 PM"
+                    ]
+                },
+                {
+                    "date": "2022-01-08",
+                    "times": [
+                        "1:00 PM",
+                        "4:00 PM",
+                        "7:00 PM"
+                    ]
+                }
+            ],
+            "reviews": [
+                {
+                    "username": "TrinityFanatic",
+                    "platform": "Facebook",
+                    "content": "The Matrix Resurrections was great! It was so cool to see Keanu Reeves back in action.",
+                    "likes": 150,
+                    "replies": [
+                        {
+                            "username": "NeoFan99",
+                            "platform": "Twitter",
+                            "content": "@TrinityFanatic I know, right? I loved that scene where he fought Smith.",
+                            "likes": 50
+                        },
+                        {
+                            "username": "MorpheusFan",
+                            "platform": "Instagram",
+                            "content": "The Matrix Resurrections was everything I wanted it to be and more. It was so good!",
+                            "likes": 100,
+                            "replies": [
+                                {
+                                    "username": "TrinityFanatic",
+                                    "platform": "Facebook",
+                                    "content": "@MorpheusFan I agree! I was on the edge of my seat the whole time.",
+                                    "likes": 50
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "username": "TheOne",
+                    "platform": "Twitter",
+                    "content": "Just finished watching The Matrix Resurrections and I'm blown away. It was amazing!",
+                    "likes": 100,
+                    "replies": [
+                        {
+                            "username": "TrinityFanatic",
+                            "platform": "Facebook",
+                            "content": "@TheOne Yes! It was so good to see Neo and Trinity back in action.",
+                            "likes": 25
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Black Widow",
+            "release_year": 2021,
+            "genre": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "rating": 7.0,
+            "showtimes": [
+                {
+                    "date": "2022-01-01",
+                    "times": [
+                        "2:00 PM",
+                        "5:00 PM",
+                        "8:00 PM"
+                    ]
+                },
+                {
+                    "date": "2022-01-02",
+                    "times": [
+                        "2:00 PM",
+                        "5:00 PM",
+                        "8:00 PM"
+                    ]
+                },
+                {
+                    "date": "2022-01-03",
+                    "times": [
+                        "2:00 PM",
+                        "5:00 PM",
+                        "8:00 PM"
+                    ]
+                },
+                {
+                    "date": "2022-01-04",
+                    "times": [
+                        "2:00 PM",
+                        "5:00 PM",
+                        "8:00 PM"
+                    ]
+                },
+                {
+                    "date": "2022-01-05",
+                    "times": [
+                        "2:00 PM",
+                        "5:00 PM",
+                        "8:00 PM"
+                    ]
+                },
+                {
+                    "date": "2022-01-06",
+                    "times": [
+                        "2:00 PM",
+                        "5:00 PM",
+                        "8:00 PM"
+                    ]
+                },
+                {
+                    "date": "2022-01-07",
+                    "times": [
+                        "2:00 PM",
+                        "5:00 PM",
+                        "8:00 PM"
+                    ]
+                },
+                {
+                    "date": "2022-01-08",
+                    "times": [
+                        "2:00 PM",
+                        "5:00 PM",
+                        "8:00 PM"
+                    ]
+                }
+            ],
+            "reviews": [
+                {
+                    "username": "NatashaRomanoffFan",
+                    "platform": "Instagram",
+                    "content": "Black Widow was amazing! Scarlett Johansson was born to play this role.",
+                    "likes": 100,
+                    "replies": [
+                        {
+                            "username": "HawkeyeFan",
+                            "platform": "Twitter",
+                            "content": "@NatashaRomanoffFan I agree! The scene where they fought in Budapest was so cool.",
+                            "likes": 25
+                        }
+                    ]
+                },
+                {
+                    "username": "MarvelFanatic",
+                    "platform": "Twitter",
+                    "content": "Just watched Black Widow and it was awesome! The action scenes were so well done.",
+                    "likes": 75,
+                    "replies": []
+                }
+            ]
+        }
+    ]
+}
